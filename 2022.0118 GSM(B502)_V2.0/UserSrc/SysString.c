@@ -101,7 +101,7 @@ code char StrTabDelAllPsw[] = {"האם למחוק הכל ?"};
 code char StrTabPswSet1[] = {"1- הוסף סיסמה"};
 code char StrTabPswSet2[] = {"2-מחק סיסמה"};
 code char StrTabPswSet3[] = {"3-מחק הכל"};
-code char StrTabPsw1[] = {"סיסמה:"};
+code char StrTabPsw1[] = {"סיסמה1:"};
 code char StrTabPsw2[] = {"אשר:"};
 
 code char StrTabListCount[] = {"סך הכל:"};
